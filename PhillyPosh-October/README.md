@@ -7,13 +7,13 @@
 * Youtube recording - Coming soon
 * [Slides](https://docs.google.com/presentation/d/1OxbBMYD3IPjqFKC8Cl1z4N90OuaW_NIY3C9PgdwZSZ0/edit?usp=sharing)
 * Code
-  * [PSDeploy local demo](/PSDeploy-Demo.ps1)
+  * [PSDeploy local demo](/PhillyPosh-October/PSDeploy-Demo.ps1)
   * [Simple AppVeyor Example](https://github.com/RamblingCookieMonster/zAppVeyor-Explore)
-  * [GitLab Example](/GitLab-Example)
-    * [Build config](/GitLab-Example/.gitlab-ci.yml)
-    * [Build script](/GitLab-Example/build.ps1)
-    * [Tests](/GitLab-Example/Tests/GitLab-Example.Tests.ps1)
-    * [Deployments](/GitLab-Example/deploy.psdeploy.ps1)
+  * [GitLab Example](/PhillyPosh-October/GitLab-Example)
+    * [Build config](/PhillyPosh-October/GitLab-Example/.gitlab-ci.yml)
+    * [Build script](/PhillyPosh-October/GitLab-Example/build.ps1)
+    * [Tests](/PhillyPosh-October/GitLab-Example/Tests/GitLab-Example.Tests.ps1)
+    * [Deployments](/PhillyPosh-October/GitLab-Example/deploy.psdeploy.ps1)
 
 ## References
 
