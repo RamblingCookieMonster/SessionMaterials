@@ -1,0 +1,9 @@
+stages:
+  - all_the_things
+
+build:
+  script:
+    - . .\build.ps1
+  stage: all_the_things
+  tags:
+    - windows
