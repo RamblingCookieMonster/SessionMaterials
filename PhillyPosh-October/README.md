@@ -2,6 +2,8 @@
 
 * Topic: Continuous Deployment for Microsoft Sysadmins
 
+If I mentioned that I would include something in these materials and you don't see it here, hit me up via an issue or pull request!
+
 ## Materials
 
 * Youtube recording - Coming soon
