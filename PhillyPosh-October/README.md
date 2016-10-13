@@ -6,7 +6,7 @@ If I mentioned that I would include something in these materials and you don't s
 
 ## Materials
 
-* Youtube recording - Coming soon
+* [Youtube recording](https://www.youtube.com/watch?v=jKLf1KjYhTM)
 * [Slides](https://docs.google.com/presentation/d/1OxbBMYD3IPjqFKC8Cl1z4N90OuaW_NIY3C9PgdwZSZ0/edit?usp=sharing)
 * Code
   * [PSDeploy local demo](/PhillyPosh-October/PSDeploy-Demo.ps1)
@@ -20,6 +20,7 @@ If I mentioned that I would include something in these materials and you don't s
 ## References
 
 * [The Release Pipeline Model](https://aka.ms/TRPM) - Thanks to Michael Greene and Steven Murawski
+* [Gain insight into a Release Pipeline Model](https://www.youtube.com/watch?v=7L1-Kawajss) - Thanks to Michael Greene and Mark Gray
 * Solutions mentioned:
   * Source: [GitHub](https://github.com/pricing)
   * Source: [Gogs](https://gogs.io/) < Simple, free, cross-platform
