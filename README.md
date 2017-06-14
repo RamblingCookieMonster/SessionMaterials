@@ -11,3 +11,4 @@ Materials or links to materials from sessions I've participated in
 | December 2016 | [LISA16](https://www.usenix.org/conference/lisa16) | [Release Pipelines in Microsoft Ecosystems](https://www.usenix.org/conference/lisa16/conference-program/presentation/frame) |
 | April 2017 | [PowerShell + DevOps Global Summit](https://eventloom.com/event/home/summit2017) | [Writing PowerShell Modules](https://github.com/RamblingCookieMonster/WritingModules) |
 | April 2017 | [PowerShell + DevOps Global Summit](https://eventloom.com/event/home/summit2017) | [Community Lightning Demos](https://github.com/devops-collective-inc/summit-materials#community-lightning-demos) |
+| June 2017 | [PowerShell Chattanooga](https://www.meetup.com/PowerShell_Chattanooga/events/239845484/) | [Version Control and GitHub](/Chattanooga-June/) |
