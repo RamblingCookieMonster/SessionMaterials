@@ -14,3 +14,4 @@ Materials or links to materials from sessions I've participated in
 | June 2017 | [PowerShell Chattanooga](https://www.meetup.com/PowerShell_Chattanooga/events/239845484/) | [Version Control and GitHub](/Chattanooga-June/) |
 | June 2017 | [PowerShell in Action](https://github.com/dstolts/PSinAction) | [Version Control](https://github.com/dstolts/PSinAction/tree/master/Version-Control) |
 | June 2017 | [PowerShell in Action](https://github.com/dstolts/PSinAction) | [Release Pipelines](https://github.com/dstolts/PSinAction/tree/master/Release-Pipelines) |
+| November 2017 | [SoCal PowerShell user group](https://www.meetup.com/SoCal-PowerShell-user-group/events/241536585/) | [Exploring and Troubleshooting Your Builds](/SoCal-November/) |
